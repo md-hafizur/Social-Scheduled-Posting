@@ -23,9 +23,9 @@ fullstack-challenge/
 │
 ├── frontend/               # Next.js + React
 │   ├── app/
-│   │   ├── posts/          # Challenge 1 UI
-│   │   ├── products/       # Challenge 2 UI
-│   │   └── dashboard/      # Challenge 3 UI
+│   │   ├── page.tsx          # Challenge 1 UI
+│   │   ├── designer/       # Challenge 2 UI
+│   │   └── anaytics/      # Challenge 3 UI
 │   ├── components/
 │   ├── lib/
 │   ├── package.json
